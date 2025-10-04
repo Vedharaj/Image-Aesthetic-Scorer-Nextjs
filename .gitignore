@@ -1,0 +1,7 @@
+.git
+.venv
+node_modules
+.env
+.next
+*h5
+__pycache__
