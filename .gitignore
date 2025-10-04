@@ -3,5 +3,7 @@
 node_modules
 .env
 .next
-*h5
+*.h5
 __pycache__
+*.jpg
+*.png
